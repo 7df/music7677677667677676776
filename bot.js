@@ -333,8 +333,8 @@ client.on('message', message => {
 
 
 client.on('message', message => {
-     if (message.content === "1help") {
-message.author.send("** [❖═════1play═══════❖]**" + `  **
+     if (message.content === "3help") {
+message.author.send("** [❖═════3play═══════❖]**" + `  **
 ❖ 3play : لتشغيل اغنية
 ❖ 3join : دخول رومك الصوتي
 ❖ 3disconnect : مطور البوت
